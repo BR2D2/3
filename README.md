@@ -2,6 +2,8 @@
 
 Material Design for MPC-HC WebServer
 
+![](https://i.imgur.com/dIlEd7o.png)
+
 ## Features
 
 - Play/Pause/Stop
