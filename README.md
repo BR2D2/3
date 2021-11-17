@@ -1,6 +1,6 @@
 # mpchc-webui
 
-Material Design for MPC-HC WebServer
+WebUI with Material Design for MPC-HC WebServer
 
 ![](https://i.imgur.com/dIlEd7o.png)
 
