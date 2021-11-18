@@ -18,11 +18,13 @@ WebUI with Material Design for MPC-HC WebServer
 ## Usage
 
 1. Clone this project > `git clone https://github.com/michioxd/mpchc-webui.git`
-2. Go to Options (O) > Web Interface
+2. Go to MPC Options: View > Option > Web Interface
 3. Tick "Serve pages from..." and select `C:\your\path\to\mpchc-webui` folder
 4. Click OK
 
 Note: To enable Snapshot, tick `Enable Preview` and OK
+
+Snapshot won't working with Audio (even if the Audio that has a cover art)
 
 ## License
 
